@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - TrashBag
+  - StarToy
   layers:
   - Default
   - TransparentFX
